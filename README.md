@@ -15,5 +15,7 @@ Several external packages are needed to run the code
 ## Content
 
 cassandra_queries.ipynb contains the ETL setup and CQL queries
+
 event_datafile_new.csv contains transformed data for further analysis
+
 examples/ contain examples of CQL queries for educational purposes
